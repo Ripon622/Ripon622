@@ -105,5 +105,3 @@ int main() {
   <img src="https://github-profile-trophy.vercel.app/?username=RiponNath&theme=onestar&no-frame=false&no-bg=false&margin-w=8&row=1" width="90%"/>
 </p>
 ```
-
-**একটা গুরুত্বপূর্ণ বিষয়:** GitHub username যদি `RiponNath` না হয়, তাহলে README-এর `username=RiponNath` এবং `user=RiponNath` জায়গাগুলোতে **তোমার আসল GitHub username** বসাতে হবে। Otherwise GitHub stats দেখাবে না।
